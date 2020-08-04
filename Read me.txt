@@ -1,0 +1,9 @@
+RU---Russian
+PT---Portuguese
+NL---Dutch
+IT---Italian
+FR---French
+ES---Spanish
+DE---German
+CN---жпнд
+EN---English
